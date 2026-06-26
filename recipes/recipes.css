@@ -1,0 +1,57 @@
+*{
+    box-sizing: border-box;
+}
+body{
+
+    background-color: black ;
+    font-family: 'Courier New', Courier, monospace;
+    color: yellow;
+}
+.home{
+    color: white;
+    font-size: 20px;
+}
+span{
+    font-weight: 900;
+    font-size: 25px;
+}
+.Title{
+    margin-top: 35px;
+    padding: 5px 15px;
+    width: 650px;
+    margin-left: 25px;
+    text-align: center;
+}
+ 
+.Ingredients{
+    width:650px;
+    padding: 25px;
+    margin-left: 25px;
+    
+}
+li{
+    margin:10px;
+    font-weight:500
+}
+.Title2{
+    margin-top: 35px;
+    padding: 5px 15px;
+    width: 650px;
+    margin-left: 25px;
+    text-align: center;
+
+}
+.Step{
+    width:650px;
+    padding: 35px;
+    margin-left: 25px;
+}
+.body-salmon{
+    background-color:  #E67E00 ;
+    font-family: 'Courier New', Courier, monospace;
+    color: #06402B
+}
+.body-steak{
+    background-color: #E0ABBB;
+    color: #212121;
+}
